@@ -5,3 +5,4 @@ This notebook contains a convolutional autoencoder which reduces the dimension o
 ## Results
 
 On a sample 
+![alt text](https://raw.githubusercontent.com/MihaiLung//Convolutional-Autoencoder/master/Reconstructions.png)
